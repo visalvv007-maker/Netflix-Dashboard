@@ -1,6 +1,6 @@
 # Netflix-Dashboard
-project Title / headline
-A concise, descriptive name of the Dashboard.
+
+.
 example:
 Netflix analytics : netflix analysis Dashboard
 An Interactive data visualization tool to build and explore Netflix titles (1925-2021) across India, US, japan and SouthKorea.
